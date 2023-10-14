@@ -1,6 +1,6 @@
 Published articles that I co-authored.
 
-# List of publications
+## List of publications
 
 - Privalova, V., Labecka, A. M., **Szlachcic, E.**, Sikorska, A., Czarnoleski, M. 2023. Systemic changes in cell size throughout the body of _Drosophila melanogaster_ associated with mutations in molecular cell cycle regulators. _Sci Rep_, 13, 7565.
 - **Szlachcic, E.**, & Czarnoleski, M. 2021. Thermal and oxygen flight sensitivity in ageing _Drosophila melanogaster_ flies: Links to rapamycin–induced cell size changes. _Biology_, 10, 861.
@@ -10,6 +10,6 @@ Published articles that I co-authored.
 - Privalova, V., Labecka, A. M., **Szlachcic, E.**, Sikorska, A., Czarnoleski, M. 2023. Systemic changes in cell size throughout the body of _Drosophila melanogaster_ associated with mutations in molecular cell cycle regulators. _Sci Rep_, 13, 7565.
 - Czarnoleski, M., **Szlachcic, E.**, Privalova, V., Labecka, A. M., Sikorska, A., Sobczyk Ł., VandenBrooks J., Angilletta Jr. M. J. 2023. Oxygen and temperature affect cell sizes differently among tissues and between sexes of _Drosophila melanogaster_. _J Insect Physiol_, 150:104559.
 
-## License
+### License
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
