@@ -1,4 +1,4 @@
-## Published articles that I co-authored.
+## Published articles that I co-authored
 
 ### List of publications
 
