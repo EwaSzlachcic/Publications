@@ -1,8 +1,8 @@
-Published articles that I co-authored.
+## Published articles that I co-authored
 
-## List of publications
+### List of publications
 
-- Privalova, V., Labecka, A. M., **Szlachcic, E.**, Sikorska, A., Czarnoleski, M. 2023. Systemic changes in cell size throughout the body of _Drosophila melanogaster_ associated with mutations in molecular cell cycle regulators. _Sci Rep_, 13, 7565.
+- Privalova, V., **Szlachcic, E.**, Sobczyk, Ł., Szabla, N., Czarnoleski, M. 2021. Oxygen Dependence of Flight Performance in Ageing _Drosophila melanogaster_. _Biology_, 10, 327.
 - **Szlachcic, E.**, & Czarnoleski, M. 2021. Thermal and oxygen flight sensitivity in ageing _Drosophila melanogaster_ flies: Links to rapamycin–induced cell size changes. _Biology_, 10, 861.
 - **Szlachcic, E.**, Rożen, A. 2023. Nutrients (N, P, K, Na) and warming affect heterotrophic respiration in temperate forest litter. _Eur J Forest Res_, 142, 117–127.
 - **Szlachcic, E.**, Labecka, A. M., Privalova, V., Sikorska, A., Czarnoleski, M. 2023. Systemic orchestration of cell size throughout the body: Influence of sex and rapamycin exposure in _Drosophila melanogaster_. _Biol Lett_, 19:20220611
